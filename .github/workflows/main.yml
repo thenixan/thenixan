@@ -1,10 +1,8 @@
 name: Readme Updater
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
-    - cron:  '32 * * * *'
+    - cron:  '*/10 * * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -18,16 +16,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - uses: thenixan/profile-updater@v1
+      - uses: thenixan/js-profile-updater@master
+        with:
+          youtubeApiKey: ${{ secrets.YT_API_KEY }}
+          youtubeChannelId: ${{ secrets.YT_CHANNEL_ID }}
         env:
-          YT_API_KEY: ${{ secrets.YT_API_KEY }}
-          YT_CHANNEL_ID: ${{ secrets.YT_CHANNEL_ID }}
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
