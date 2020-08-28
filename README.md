@@ -6,6 +6,8 @@
 
 #### Latest uploads:
 
+- [Любой файл в ресурсах андроид приложения! (продолжаем делать игру)](https://www.youtube.com/watch?v=p4TNP9bNivg)
+
 - [Как работает интернет? Протокол HTTP](https://www.youtube.com/watch?v=9aycvfzH8UA)
 
 - [Мультипроектная сборка Gradle: Android и библиотека](https://www.youtube.com/watch?v=WczLjZ68X1Y)
@@ -23,6 +25,4 @@
 - [Kotlin: рефакторинг, extension функции, typealias](https://www.youtube.com/watch?v=Pk-cjInNJeg)
 
 - [Kotlin: пишем юнит-тесты на JUnit 5](https://www.youtube.com/watch?v=dSe1kygppVI)
-
-- [Kotlin: заканчиваем приложение](https://www.youtube.com/watch?v=WxCP39oS-zA)
 
