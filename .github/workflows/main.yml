@@ -19,7 +19,6 @@ jobs:
 
       - uses: thenixan/js-profile-updater@master
         with:
-          youtubeApiKey: ${{ secrets.YT_API_KEY }}
           youtubeChannelId: ${{ secrets.YT_CHANNEL_ID }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
