@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Android View с нуля](https://www.youtube.com/watch?v=HG0yrfhENhg)
+
 - [Как быстро научиться программировать? (плюс GitHub Actions и персональные страницы)](https://www.youtube.com/watch?v=IHL3LAeaQBk)
 
 - [Любой файл в ресурсах андроид приложения! (продолжаем делать игру)](https://www.youtube.com/watch?v=p4TNP9bNivg)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Проект Kotlin: git, github, continuous integration, автотесты](https://www.youtube.com/watch?v=9t_PAk-kJjI)
 
 - [Проект Kotlin: git, github, gitignore](https://www.youtube.com/watch?v=1UYAk_D7t14)
-
-- [Kotlin: рефакторинг, extension функции, typealias](https://www.youtube.com/watch?v=Pk-cjInNJeg)
 
 
