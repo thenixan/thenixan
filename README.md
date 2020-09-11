@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Почему не надо становиться программистом в 2020 году?](https://www.youtube.com/watch?v=FRwnpeFLniM)
+
 - [Android View с нуля](https://www.youtube.com/watch?v=HG0yrfhENhg)
 
 - [Как быстро научиться программировать? (плюс GitHub Actions и персональные страницы)](https://www.youtube.com/watch?v=IHL3LAeaQBk)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Какой язык программирования учить в 2020 году?](https://www.youtube.com/watch?v=fzg9Y6UrHYc)
 
 - [Проект Kotlin: git, github, continuous integration, автотесты](https://www.youtube.com/watch?v=9t_PAk-kJjI)
-
-- [Проект Kotlin: git, github, gitignore](https://www.youtube.com/watch?v=1UYAk_D7t14)
 
 
