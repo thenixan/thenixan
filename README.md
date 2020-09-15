@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Смена ориентации в Android приложении [4 способа]](https://www.youtube.com/watch?v=coDtHbPgePk)
+
 - [Почему не надо становиться программистом в 2020 году?](https://www.youtube.com/watch?v=FRwnpeFLniM)
 
 - [Android View с нуля](https://www.youtube.com/watch?v=HG0yrfhENhg)
@@ -24,7 +26,5 @@ Hi there 👋
 - [(наконец-то) подключаем Android в Gradle проект с Kotlin](https://www.youtube.com/watch?v=wnCuwrrYmp0)
 
 - [Какой язык программирования учить в 2020 году?](https://www.youtube.com/watch?v=fzg9Y6UrHYc)
-
-- [Проект Kotlin: git, github, continuous integration, автотесты](https://www.youtube.com/watch?v=9t_PAk-kJjI)
 
 
