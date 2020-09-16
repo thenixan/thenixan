@@ -7,7 +7,7 @@ Hi there 👋
 
 #### Latest uploads:
 
-- [VS Code и vim на айпаде! Программируем где угодно, кроме самолета](https://www.youtube.com/watch?v=zf31VNLnGbY)
+- [VS Code и vim на iPad! Программируем где угодно, кроме самолета](https://www.youtube.com/watch?v=zf31VNLnGbY)
 
 - [Смена ориентации в Android приложении [4 способа]](https://www.youtube.com/watch?v=coDtHbPgePk)
 
