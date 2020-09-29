@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Самый частый вопрос на собеседованиях - коллекции, hashCode и equals](https://www.youtube.com/watch?v=6qVRci8gG-M)
+
 - [VS Code и vim на iPad! Программируем где угодно, кроме самолета](https://www.youtube.com/watch?v=zf31VNLnGbY)
 
 - [Смена ориентации в Android приложении [4 способа]](https://www.youtube.com/watch?v=coDtHbPgePk)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Мультипроектная сборка Gradle: Android и библиотека](https://www.youtube.com/watch?v=WczLjZ68X1Y)
 
 - [Что быстрее: потоки или корутины в Kotlin?](https://www.youtube.com/watch?v=buXJu0YGkEQ)
-
-- [(наконец-то) подключаем Android в Gradle проект с Kotlin](https://www.youtube.com/watch?v=wnCuwrrYmp0)
 
 
