@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Функции высшего порядка в Kotlin: map, flatMap, fold, filter - понятный компактный код](https://www.youtube.com/watch?v=KxO2gWDVoKU)
+
 - [Самый частый вопрос на собеседованиях - коллекции, hashCode и equals](https://www.youtube.com/watch?v=6qVRci8gG-M)
 
 - [VS Code и vim на iPad! Программируем где угодно, кроме самолета](https://www.youtube.com/watch?v=zf31VNLnGbY)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Как работает интернет? Протокол HTTP](https://www.youtube.com/watch?v=9aycvfzH8UA)
 
 - [Мультипроектная сборка Gradle: Android и библиотека](https://www.youtube.com/watch?v=WczLjZ68X1Y)
-
-- [Что быстрее: потоки или корутины в Kotlin?](https://www.youtube.com/watch?v=buXJu0YGkEQ)
 
 
