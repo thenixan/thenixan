@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [😷 Программирование, выгорание и пандемия](https://www.youtube.com/watch?v=IwokadQTmSU)
+
 - [Функции высшего порядка в Kotlin: map, flatMap, fold, filter - понятный компактный код](https://www.youtube.com/watch?v=KxO2gWDVoKU)
 
 - [Самый частый вопрос на собеседованиях - коллекции, hashCode и equals](https://www.youtube.com/watch?v=6qVRci8gG-M)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Любой файл в ресурсах андроид приложения! (продолжаем делать игру)](https://www.youtube.com/watch?v=p4TNP9bNivg)
 
 - [Как работает интернет? Протокол HTTP](https://www.youtube.com/watch?v=9aycvfzH8UA)
-
-- [Мультипроектная сборка Gradle: Android и библиотека](https://www.youtube.com/watch?v=WczLjZ68X1Y)
 
 
