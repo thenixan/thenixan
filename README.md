@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Лучший компьютер для программиста - как выбрать?](https://www.youtube.com/watch?v=nNIbMyQ7qRs)
+
 - [150 000 ₽ на андроиде без опыта - перехватываем https траффик - mitm-proxy](https://www.youtube.com/watch?v=_F9TfVnS1l0)
 
 - [Почему функции высшего порядка медленные? - list vs sequence](https://www.youtube.com/watch?v=5lma-1O7Dz8)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Почему не надо становиться программистом в 2020 году?](https://www.youtube.com/watch?v=FRwnpeFLniM)
 
 - [Android View с нуля](https://www.youtube.com/watch?v=HG0yrfhENhg)
-
-- [Как быстро научиться программировать? (плюс GitHub Actions и персональные страницы)](https://www.youtube.com/watch?v=IHL3LAeaQBk)
 
 
