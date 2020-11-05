@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Рисуем таблицу для судоку: Android RecyclerView и все такое](https://www.youtube.com/watch?v=_fnRrruE2do)
+
 - [Лучший компьютер для программиста - как выбрать?](https://www.youtube.com/watch?v=nNIbMyQ7qRs)
 
 - [150 000 ₽ на андроиде без опыта - перехватываем https траффик - mitm-proxy](https://www.youtube.com/watch?v=_F9TfVnS1l0)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Смена ориентации в Android приложении [4 способа]](https://www.youtube.com/watch?v=coDtHbPgePk)
 
 - [Почему не надо становиться программистом в 2020 году?](https://www.youtube.com/watch?v=FRwnpeFLniM)
-
-- [Android View с нуля](https://www.youtube.com/watch?v=HG0yrfhENhg)
 
 
