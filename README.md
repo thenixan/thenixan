@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Распаковка механической клавиатуры Keychron K8](https://www.youtube.com/watch?v=A0wWCLtdzSc)
+
 - [Рисуем таблицу для судоку: Android RecyclerView и все такое](https://www.youtube.com/watch?v=_fnRrruE2do)
 
 - [Лучший компьютер для программиста - как выбрать?](https://www.youtube.com/watch?v=nNIbMyQ7qRs)
@@ -24,7 +26,5 @@ Hi there 👋
 - [VS Code и vim на iPad! Программируем где угодно, кроме самолета](https://www.youtube.com/watch?v=zf31VNLnGbY)
 
 - [Смена ориентации в Android приложении [4 способа]](https://www.youtube.com/watch?v=coDtHbPgePk)
-
-- [Почему не надо становиться программистом в 2020 году?](https://www.youtube.com/watch?v=FRwnpeFLniM)
 
 
