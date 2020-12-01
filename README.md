@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Телеграм бот на Kotlin с картой осадков яндекса](https://www.youtube.com/watch?v=VPn-Pvq2bbk)
+
 - [Много параметров? - юзаем паттерн Builder и пишем DSL](https://www.youtube.com/watch?v=ZaE7X8olTUA)
 
 - [Распаковка механической клавиатуры Keychron K8](https://www.youtube.com/watch?v=A0wWCLtdzSc)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Функции высшего порядка в Kotlin: map, flatMap, fold, filter - понятный компактный код](https://www.youtube.com/watch?v=KxO2gWDVoKU)
 
 - [Самый частый вопрос на собеседованиях - коллекции, hashCode и equals](https://www.youtube.com/watch?v=6qVRci8gG-M)
-
-- [VS Code и vim на iPad! Программируем где угодно, кроме самолета](https://www.youtube.com/watch?v=zf31VNLnGbY)
 
 
