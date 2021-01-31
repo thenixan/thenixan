@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Rust прекрасен, а Kotlin Native чет не очень](https://www.youtube.com/watch?v=SaSvJxdPMVs)
+
 - [Что программисту делать на каникулах?](https://www.youtube.com/watch?v=9Y4kQgl6Aos)
 
 - [Телеграм бот на Kotlin с картой осадков яндекса](https://www.youtube.com/watch?v=VPn-Pvq2bbk)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Почему функции высшего порядка медленные? - list vs sequence](https://www.youtube.com/watch?v=5lma-1O7Dz8)
 
 - [😷 Программирование, выгорание и пандемия](https://www.youtube.com/watch?v=IwokadQTmSU)
-
-- [Функции высшего порядка в Kotlin: map, flatMap, fold, filter - понятный компактный код](https://www.youtube.com/watch?v=KxO2gWDVoKU)
 
 
