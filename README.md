@@ -7,6 +7,10 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Apple M1 для программиста – брать или подождать?](https://www.youtube.com/watch?v=ATu3KRHVcxA)
+
+- [Канал живой, нас 1000, а я заработался](https://www.youtube.com/watch?v=_dQGlKgjAUQ)
+
 - [Rust прекрасен, а Kotlin Native чет не очень](https://www.youtube.com/watch?v=SaSvJxdPMVs)
 
 - [Что программисту делать на каникулах?](https://www.youtube.com/watch?v=9Y4kQgl6Aos)
@@ -22,9 +26,5 @@ Hi there 👋
 - [Лучший компьютер для программиста - как выбрать?](https://www.youtube.com/watch?v=nNIbMyQ7qRs)
 
 - [150 000 ₽ на андроиде без опыта - перехватываем https траффик - mitm-proxy](https://www.youtube.com/watch?v=_F9TfVnS1l0)
-
-- [Почему функции высшего порядка медленные? - list vs sequence](https://www.youtube.com/watch?v=5lma-1O7Dz8)
-
-- [😷 Программирование, выгорание и пандемия](https://www.youtube.com/watch?v=IwokadQTmSU)
 
 
