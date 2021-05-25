@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Переехал на Apple Silicon - как теперь программировать?](https://www.youtube.com/watch?v=ELgfVUqo_oY)
+
 - [Выбираю стек для нового проекта, хватит с меня судоку](https://www.youtube.com/watch?v=v_IACdzmD2U)
 
 - [Apple M1 для программиста – брать или подождать?](https://www.youtube.com/watch?v=ATu3KRHVcxA)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Распаковка механической клавиатуры Keychron K8](https://www.youtube.com/watch?v=A0wWCLtdzSc)
 
 - [Рисуем таблицу для судоку: Android RecyclerView и все такое](https://www.youtube.com/watch?v=_fnRrruE2do)
-
-- [Лучший компьютер для программиста - как выбрать?](https://www.youtube.com/watch?v=nNIbMyQ7qRs)
 
 
