@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Базы данных и индексы, объясняю на пальцах](https://www.youtube.com/watch?v=thAOuWIxEEw)
+
 - [Переехал на Apple Silicon - как теперь программировать?](https://www.youtube.com/watch?v=ELgfVUqo_oY)
 
 - [Выбираю стек для нового проекта, хватит с меня судоку](https://www.youtube.com/watch?v=v_IACdzmD2U)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Много параметров? - юзаем паттерн Builder и пишем DSL](https://www.youtube.com/watch?v=ZaE7X8olTUA)
 
 - [Распаковка механической клавиатуры Keychron K8](https://www.youtube.com/watch?v=A0wWCLtdzSc)
-
-- [Рисуем таблицу для судоку: Android RecyclerView и все такое](https://www.youtube.com/watch?v=_fnRrruE2do)
 
 
