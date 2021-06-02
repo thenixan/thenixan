@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Делаем хранилище в Postgres и MongoDB](https://www.youtube.com/watch?v=FXQSw1BTaOQ)
+
 - [Базы данных и индексы, объясняю на пальцах](https://www.youtube.com/watch?v=thAOuWIxEEw)
 
 - [Переехал на Apple Silicon - как теперь программировать?](https://www.youtube.com/watch?v=ELgfVUqo_oY)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Телеграм бот на Kotlin с картой осадков яндекса](https://www.youtube.com/watch?v=VPn-Pvq2bbk)
 
 - [Много параметров? - юзаем паттерн Builder и пишем DSL](https://www.youtube.com/watch?v=ZaE7X8olTUA)
-
-- [Распаковка механической клавиатуры Keychron K8](https://www.youtube.com/watch?v=A0wWCLtdzSc)
 
 
