@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [Шифруемся - как передавать друг другу данные и не спалиться](https://www.youtube.com/watch?v=Ti2B9-bWytc)
+
 - [REST сервер авторизации на Rust](https://www.youtube.com/watch?v=5c4MZkmg7vI)
 
 - [Делаем хранилище в Postgres и MongoDB](https://www.youtube.com/watch?v=FXQSw1BTaOQ)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Rust прекрасен, а Kotlin Native чет не очень](https://www.youtube.com/watch?v=SaSvJxdPMVs)
 
 - [Что программисту делать на каникулах?](https://www.youtube.com/watch?v=9Y4kQgl6Aos)
-
-- [Телеграм бот на Kotlin с картой осадков яндекса](https://www.youtube.com/watch?v=VPn-Pvq2bbk)
 
 
