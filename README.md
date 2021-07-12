@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [HTTPS это не сложно, получаем бесплатный сертификат](https://www.youtube.com/watch?v=GuCOkuN70VA)
+
 - [Шифруемся - как передавать друг другу данные и не спалиться](https://www.youtube.com/watch?v=Ti2B9-bWytc)
 
 - [REST сервер авторизации на Rust](https://www.youtube.com/watch?v=5c4MZkmg7vI)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Канал живой, нас 1000, а я заработался](https://www.youtube.com/watch?v=_dQGlKgjAUQ)
 
 - [Rust прекрасен, а Kotlin Native чет не очень](https://www.youtube.com/watch?v=SaSvJxdPMVs)
-
-- [Что программисту делать на каникулах?](https://www.youtube.com/watch?v=9Y4kQgl6Aos)
 
 
