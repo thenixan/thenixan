@@ -7,6 +7,8 @@ Hi there 👋
 
 #### Latest uploads:
 
+- [ВОЛОДЯ БАТАЕВ | Как работают нейросети и почему я бросил МГУ](https://www.youtube.com/watch?v=nJcflXIo3sA)
+
 - [HTTPS это не сложно, получаем бесплатный сертификат](https://www.youtube.com/watch?v=GuCOkuN70VA)
 
 - [Шифруемся - как передавать друг другу данные и не спалиться](https://www.youtube.com/watch?v=Ti2B9-bWytc)
@@ -24,7 +26,5 @@ Hi there 👋
 - [Apple M1 для программиста – брать или подождать?](https://www.youtube.com/watch?v=ATu3KRHVcxA)
 
 - [Канал живой, нас 1000, а я заработался](https://www.youtube.com/watch?v=_dQGlKgjAUQ)
-
-- [Rust прекрасен, а Kotlin Native чет не очень](https://www.youtube.com/watch?v=SaSvJxdPMVs)
 
 
